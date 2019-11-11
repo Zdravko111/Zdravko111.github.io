@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #7b7d8a;
   text-decoration: none;
   background-color: transparent;
 }
@@ -1404,7 +1404,7 @@ pre code {
 
 .table-bordered thead th,
 .table-bordered thead td {
-  border-bottom-width: 0.25rem;
+ border-bottom-width: 0.25rem;
 }
 
 .table-borderless th,
